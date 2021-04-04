@@ -1,7 +1,7 @@
 ---
 layout: slides
 title: Λειτουργικά Συστήματα
-image_url: /images/xerox-star-pc.jpg
+image_url: /images/windows95-thumb.jpg
 caption: Λειτουργικό σύστημα (Operating System) ονομάζεται στην επιστήμη της πληροφορικής το λογισμικό του υπολογιστή που είναι υπεύθυνο για τη διαχείριση και τον συντονισμό των εργασιών, καθώς και την κατανομή των διαθέσιμων πόρων.
 slides:
   - home-programming
