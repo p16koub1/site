@@ -16,6 +16,6 @@
 [submodule "_gallery"]
 	path = _gallery
 	url = https://github.com/p16koub1/_gallery.git
-[submodule "_includes/extras"]
-	path = _includes/extras
+[submodule "extras"]
+	path = extras
 	url = https://github.com/p16koub1/extras.git
