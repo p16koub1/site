@@ -12,3 +12,5 @@ tags:
   - Windows
   - Microsoft
 ---
+
+{% include extras/bill-gates-bio.md %}
