@@ -7,11 +7,13 @@ categories:
   - Μελέτη Περίπτωσης
   - Μοντέλα
 tags:
-  - affective usability
+  - Λειτουργικά Συστήματα
+  - Apple
+  - Steve Jobs
 gallery:
-  - image_url: /images/atm-affective.png
-    caption: "Τα πειράματα με εναλλακτικές διαρρυθμίσεις των πλήκτρων σε ένα απλό τραπεζικό ATM έδειξαν ότι ακόμη και αν δεν υπάρχει ουσιαστική διαφορά στην πραγματική απόδοση της διάδρασης, οι χρήστες αντιλαμβάνονται κάποια διαφορά, η οποία μπορεί να ερμηνευθεί από τη σκοπιά της αισθητικής."
+  - image_url: /images/macOS-bigsur.png
+    caption: "Το macOS Big Sur είναι η 17η και τρέχουσα σημαντική έκδοση του macOS, του λειτουργικού συστήματος της Apple Inc. για υπολογιστές Macintosh και είναι ο διάδοχος του macOS Catalina. Ανακοινώθηκε στο Worldwide Developers Conference της Apple στις 22 Ιουνίου 2020 και κυκλοφόρησε στο κοινό στις 12 Νοεμβρίου 2020."
 ---
 
-{% include extras/cs-affective.md %}
+{% include extras/cs-mac-os.md %}
 
